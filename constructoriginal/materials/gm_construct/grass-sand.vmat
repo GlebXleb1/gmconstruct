@@ -1,0 +1,11 @@
+// Converted with vmt_to_vmat.py
+
+Layer0
+{
+	shader "vr_complex.vfx"
+
+	TextureColor "materials\gm_construct\grass-sand_color.tga"
+	TextureDetail "materials/gm_construct/grass_clouds.tga"
+	F_DETAIL_TEXTURE 1
+	g_vDetailTexCoordScale "[0.125 0.125]"
+}

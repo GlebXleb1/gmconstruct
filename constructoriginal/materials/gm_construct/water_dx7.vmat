@@ -1,0 +1,10 @@
+// Converted with vmt_to_vmat.py
+
+Layer0
+{
+	shader "vr_complex.vfx"
+
+	F_TRANSLUCENT 1
+	TextureTranslucency "materials\gm_construct\water_dx7_trans.tga"
+	g_vColorTint "[0.07058823529411765 0.054901960784313725 0.047058823529411764 0.8235294117647058]"
+}
